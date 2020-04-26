@@ -1,0 +1,15 @@
+import os
+import time
+os.system("pip.bat")
+print("Done Updating Pip......")
+os.system("Requriments.bat")
+print("Done Installing Requirments......")
+os.system("attrib +h cogwheels.ico")
+os.system("attrib +h requirements.txt")
+os.system("attrib +h pip.bat")
+os.system("attrib +h Requriments.bat")
+os.system("attrib +h WindowsInstaller.py")
+os.system("attrib +h PZeeAccelerator.py")
+print("")
+print("Installation Done Succesfully.......")
+time.sleep(5)
