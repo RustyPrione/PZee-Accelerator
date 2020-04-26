@@ -1,4 +1,3 @@
-![PZee-Accelerator](cogwheels.png) 
 # PZee-Accelerator
 This Tool is use to speed up and Acclerate your System to high speed.
 This tool is developed for Windows 10
